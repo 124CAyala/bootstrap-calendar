@@ -1,0 +1,17 @@
+.general{
+  font-size: 4vw;
+}
+.bg {
+  background-image: url("imgs/bs-calender.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 0.85;
+  height: 100%;
+  width: auto;
+}
+.nope {
+  color: #c2c2c2;
+}
+.week {
+  color: #f2f2f2;
+}
